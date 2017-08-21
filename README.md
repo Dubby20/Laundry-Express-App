@@ -1,2 +1,2 @@
 # Laundry-Express-App
-Laundry Website Template
+Laundry Website
