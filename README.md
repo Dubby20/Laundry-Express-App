@@ -1,2 +1,2 @@
 # Laundry-Express-App
-Laundry Website
+A Laundry Website
